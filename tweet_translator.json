@@ -1,0 +1,1 @@
+[{"id":"d8350902.e20fc8","type":"cloudantplus out","z":"b7eb968c.482218","name":"","cloudant":"292f201c.e4d6c","database":"","service":"_ext_","payonly":true,"operation":"insert","x":990,"y":300,"wires":[["a5ce27d6.223ce8"]]},{"id":"292f201c.e4d6c","type":"cloudantplus","z":"","host":"","name":""}]
